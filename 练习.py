@@ -25,6 +25,5 @@ print("\nWhat's left:")
 for finished_sandwiche in finished_sandwiches:
     print(finished_sandwiche.title())
 
-    1
 
 
